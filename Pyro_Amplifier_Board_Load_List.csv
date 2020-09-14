@@ -1,0 +1,44 @@
+Source:,C:\Users\tjohnson\Documents\Lasers_Pyro_Amplifier\Pyro_Amplifier_Board - QuadCell Large\Pyro_Amplifier_Board.sch,,
+Date:,11/6/2019 13:45,,
+Tool:,Eeschema (5.1.4)-1,,
+Ref,Value,Footprint,Link
+C1,10uF,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,https://www.digikey.com/product-detail/en/nichicon/UCY2G100MPD1TD/493-13313-1-ND/4333047
+C2,10uF,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,https://www.digikey.com/product-detail/en/nichicon/UCY2G100MPD1TD/493-13313-1-ND/4333047
+C3,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C4,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C5,0.01uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/kemet/C0805C103M5RACTU/399-1160-1-ND/411435
+C6,0.01uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/kemet/C0805C103M5RACTU/399-1160-1-ND/411435
+C7,560pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GRM1555C1H561FA01D/490-12605-1-ND/5797586
+C8,560pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GRM1555C1H561FA01D/490-12605-1-ND/5797586
+C9,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C10,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C11,3.3pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GJM0335C1E3R3WB01D/490-17792-1-ND/8540028
+C12,3.3pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GJM0335C1E3R3WB01D/490-17792-1-ND/8540028
+C13,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C14,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C15,560pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GRM1555C1H561FA01D/490-12605-1-ND/5797586
+C16,560pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GRM1555C1H561FA01D/490-12605-1-ND/5797586
+C17,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C18,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C19,3.3pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GJM0335C1E3R3WB01D/490-17792-1-ND/8540028
+C20,3.3pF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/murata-electronics/GJM0335C1E3R3WB01D/490-17792-1-ND/8540028
+C21,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+C22,0.1uF,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL21B104MBCNNNC/1276-2450-1-ND/3890536
+J1,1x03 Pin Header 2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,https://www.digikey.com/product-detail/en/molex/0022053031/WM4301-ND/26691
+J2,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,https://www.digikey.com/product-detail/en/amphenol-rf-division/132289/ACX1426-ND/1989875
+J3,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,https://www.digikey.com/product-detail/en/amphenol-rf-division/132289/ACX1426-ND/1989875
+J4,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,https://www.digikey.com/product-detail/en/amphenol-rf-division/132289/ACX1426-ND/1989875
+J5,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_132289_EdgeMount,https://www.digikey.com/product-detail/en/amphenol-rf-division/132289/ACX1426-ND/1989875
+R1,5k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/vishay-thin-film/PNM0805E5001BST5/PNM0805-5.0KBCT-ND/2120390
+R2,5k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/vishay-thin-film/PNM0805E5001BST5/PNM0805-5.0KBCT-ND/2120390
+R3,49.9,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB49R9V/P49.9DACT-ND/3075164
+R4,49.9,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB49R9V/P49.9DACT-ND/3075164
+R5,5k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/vishay-thin-film/PNM0805E5001BST5/PNM0805-5.0KBCT-ND/2120390
+R6,5k,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/vishay-thin-film/PNM0805E5001BST5/PNM0805-5.0KBCT-ND/2120390
+R7,49.9,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB49R9V/P49.9DACT-ND/3075164
+R8,49.9,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB49R9V/P49.9DACT-ND/3075164
+U1,Gentec_QuadCell,TO_Cans:TO-8_Can_12_Leads,
+U2,OPA657,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.digikey.com/product-detail/en/texas-instruments/OPA657UB/OPA657UB-ND/431976
+U3,OPA657,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.digikey.com/product-detail/en/texas-instruments/OPA657UB/OPA657UB-ND/431976
+U4,OPA657,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.digikey.com/product-detail/en/texas-instruments/OPA657UB/OPA657UB-ND/431976
+U5,OPA657,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.digikey.com/product-detail/en/texas-instruments/OPA657UB/OPA657UB-ND/431976
